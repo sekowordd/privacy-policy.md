@@ -1,74 +1,54 @@
-SekoWord – Gizlilik Politikası
+Last updated: 12 January 2026
 
-Son Güncelleme: 12.01.2026
+SekoWord ("the application") is an educational mobile application
+designed to improve English listening and pronunciation skills.
 
-Bu Gizlilik Politikası, SekoWord (“Uygulama”) tarafından sunulan hizmetlerin
-kullanımı sırasında bilgilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
+## Information We Collect
+SekoWord does not request or collect personal information such as
+name, email address, location, contacts, or photos.
 
-1. Toplanan Bilgiler
+The application may automatically collect anonymous technical data,
+including:
+- Device type and operating system
+- App version
+- Crash and error reports
+- General usage statistics
 
-SekoWord, kullanıcıdan ad, e-posta, konum, kişi listesi gibi
-kişisel bilgi talep etmez.
+This data cannot be used to identify individual users.
 
-Uygulamanın çalışmasını iyileştirmek amacıyla aşağıdaki anonim teknik veriler
-otomatik olarak toplanabilir:
+## How We Use Information
+Collected data is used only to:
+- Improve application performance
+- Detect and fix technical issues
+- Enhance user experience
 
-Cihaz türü ve işletim sistemi bilgisi
+## Third-Party Services
+SekoWord may use third-party services such as:
+- Google Play Services
+- Firebase Analytics
+- Firebase Crashlytics
 
-Uygulama sürümü
+These services may collect information in accordance with their own
+privacy policies.
 
-Hata ve çökme raporları
+## Advertisements
+SekoWord does not display personalized advertisements.
+If ads are shown, they may use anonymous identifiers.
 
-Genel kullanım istatistikleri
+## Data Security
+We take reasonable measures to protect user data.
+However, no method of transmission over the internet is 100% secure.
 
-Bu veriler kimlik belirleyici değildir.
+## Children's Privacy
+SekoWord does not knowingly collect personal information from children
+under the age of 13.
 
-2. Verilerin Kullanım Amacı
+## Changes to This Policy
+This privacy policy may be updated from time to time.
+Any changes will be published on this page.
 
-Toplanan veriler yalnızca şu amaçlarla kullanılır:
+## Contact
+If you have any questions about this privacy policy, please contact:
 
-Uygulama performansını artırmak
-
-Hataları tespit edip düzeltmek
-
-Kullanıcı deneyimini geliştirmek
-
-3. Üçüncü Taraf Hizmetler
-
-SekoWord aşağıdaki üçüncü taraf hizmetleri kullanabilir:
-
-Google Play Services
-
-Firebase Analytics
-
-Firebase Crashlytics
-
-Bu servisler kendi gizlilik politikalarına göre veri işler.
-
-4. Reklamlar
-
-SekoWord [reklam içerir / reklam içermez].
-Reklam kullanılması durumunda, reklam sağlayıcıları anonim tanımlayıcılar kullanabilir.
-
-5. Veri Güvenliği
-
-Verilerin güvenliği için makul teknik ve idari önlemler alınmaktadır.
-Ancak internet üzerinden iletimin tamamen güvenli olduğu garanti edilemez.
-
-6. Çocukların Gizliliği
-
-SekoWord, 13 yaş altındaki çocuklardan bilerek kişisel veri toplamaz.
-Ebeveynler herhangi bir veri paylaşıldığını fark ederse bizimle iletişime geçebilir.
-
-7. Politika Değişiklikleri
-
-Bu gizlilik politikası gerektiğinde güncellenebilir.
-Değişiklikler bu sayfa üzerinden yayınlanır.
-
-8. İletişim
-
-Gizlilik politikası ile ilgili sorular için:
-
-📧 E-posta: serkan@example.com
-
-👤 Geliştirici: Serkan
+Email: serkan@example.com
+Developer: Serkan
